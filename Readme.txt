@@ -1,5 +1,5 @@
 Project Description
-This project is a simple, interactive e-commerce website built with HTML, CSS, and JavaScript. The site includes a fixed navigation menu that changes color when hovered over or scrolled. It also features a visually appealing shop page where items are displayed with a brown-themed color scheme. The shop items have a hover effect that lifts the item slightly and applies a colored overlay, making the user experience more dynamic and engaging.
+This project is a simple, interactive e-commerce website built with HTML, CSS, and JavaScript. The site includes a fixed navigation menu that changes color when hovered over or scrolled. It also features a visually appealing shop page where items are displayed with a brown-themed color scheme. The shop items have a hover effect that lifts the item slightly and applies a colored overlay, making the user experience more dynamic and engaging. The website also contains cart option where the users can add their fav products to cart
 
 Features
 Fixed Navigation Menu: A user-friendly navigation bar that remains fixed at the top of the page, with smooth color transitions on hover and scroll.
